@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "Apple MacBook Pro ",
+      "description": "Apple MacBook Pro 16 with Touch Bar, 9th-Gen 8-Core Intel i9 2.4GHz, 32GB RAM, 512GB SSD, AMD Radeon Pro 5300M 4GB, Space Gray, Late 2019",
+      "brand": "Apple",
+      "price": "1,20,000/-",
+      "category": "laptop",
+      "imageUrl" : "https://cdn3.mydukaan.io/app/image/700x700/?url=https://dukaan-us.s3.amazonaws.com/7083626/7885f159-0ca7-4473-bbab-d734b38c3099/applem1chipmacbookprospacegreywithquicktech2-5b28bda7-16b5-41a4-82d3-a729210099fb-d9b33623-5b1a-46de-86a2-9fea9e5f7d7b.jpg/e1fe0a7c-841e-482f-8eac-d6af00f9552f.jpg"
+    },
+    {
+      "name": "Logitech MK295 Wireless Mouse & Keyboard Combo",
+      "description": "Logitech MK295 Wireless Mouse & Keyboard Combo with SilentTouch Technology, Full Numpad, Advanced Optical Tracking, Lag-Free Wireless, 90% Less Noise - Graphite",
+      "brand": "Logitech",
+      "price": "26",
+      "category": "accessories",
+      "imageUrl" : "https://n3.sdlcdn.com/imgs/e/k/e/Logitech-G710-Blue-Mechanical-Gaming-SDL869531444-3-efad9.jpg"
+    },
+    {
+      "name": "Samsung Galaxy Book2 Intel 12th Gen core i5 39.6cm (15.6\") FHD LED Thin & Light Laptop",
+      "description": "8 GB/512 GB SSD/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg),",
+      "brand": "Samsung",
+      "price": "63,990/-",
+      "category": "laptop",
+      "imageUrl" : "https://images.samsung.com/is/image/samsung/p6pim/in/feature/163929808/in-feature-light--powerful--made-to-move-in-style-531252275?$FB_TYPE_A_MO_JPG$"
+    },
+    {
+      "name": "HP Pavilion x360 11th Gen Intel Core i7 14 inch(35.6 cm) FHD,IPS, Multitouch 2-in-1 Laptop",
+      "description": "(16GB RAM/512GB SSD/Backlit KB/Intel Iris Xe Graphics/Pen/Alexa Built-in/MSO/1.52Kg) 14-dy1050TU,",
+      "brand": "Hp",
+      "price": "70,000/-",
+      "category": "laptop",
+      "imageUrl" : "https://cdn1.smartprix.com/rx-iuPGLzCNg-w420-h420/hp-15s-fr2508tu-lapt.jpg"
+    },
+    {
+      "name": "Apple MacBook Pro ",
+      "description": "Apple MacBook Pro 16 with Touch Bar, 9th-Gen 8-Core Intel i9 2.4GHz, 32GB RAM, 512GB SSD, AMD Radeon Pro 5300M 4GB, Space Gray, Late 2019",
+      "brand": "Apple",
+      "price": "1,00,000/-",
+      "category": "laptop",
+      "imageUrl" : "https://cdn3.mydukaan.io/app/image/700x700/?url=https://dukaan-us.s3.amazonaws.com/7083626/7885f159-0ca7-4473-bbab-d734b38c3099/applem1chipmacbookprospacegreywithquicktech2-5b28bda7-16b5-41a4-82d3-a729210099fb-d9b33623-5b1a-46de-86a2-9fea9e5f7d7b.jpg/e1fe0a7c-841e-482f-8eac-d6af00f9552f.jpg"
+    },
+    {
+      "name": "Logitech MK295 Wireless Mouse & Keyboard Combo",
+      "description": "Logitech MK295 Wireless Mouse & Keyboard Combo with SilentTouch Technology, Full Numpad, Advanced Optical Tracking, Lag-Free Wireless, 90% Less Noise - Graphite",
+      "brand": "Logitech",
+      "price": "1,000/-",
+      "category": "accessories",
+      "imageUrl" : "https://n3.sdlcdn.com/imgs/e/k/e/Logitech-G710-Blue-Mechanical-Gaming-SDL869531444-3-efad9.jpg"
+    },
+    {
+      "name": "Samsung Galaxy Book2 Intel 12th Gen core i5 39.6cm (15.6\") FHD LED Thin & Light Laptop",
+      "description": "8 GB/512 GB SSD/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg),",
+      "brand": "Samsung",
+      "price": "63,990/-",
+      "category": "laptop",
+      "imageUrl" : "https://images.samsung.com/is/image/samsung/p6pim/in/feature/163929808/in-feature-light--powerful--made-to-move-in-style-531252275?$FB_TYPE_A_MO_JPG$"
+    },
+    {
+      "name": "HP Pavilion x360 11th Gen Intel Core i7 14 inch(35.6 cm) FHD,IPS, Multitouch 2-in-1 Laptop",
+      "description": "(16GB RAM/512GB SSD/Backlit KB/Intel Iris Xe Graphics/Pen/Alexa Built-in/MSO/1.52Kg) 14-dy1050TU,",
+      "brand": "Hp",
+      "price": "20,000/-",
+      "category": "laptop",
+      "imageUrl" : "https://cdn1.smartprix.com/rx-iuPGLzCNg-w420-h420/hp-15s-fr2508tu-lapt.jpg"
+    }
+  ]
+}

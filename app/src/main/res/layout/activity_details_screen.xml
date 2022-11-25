@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".screen.DetailsScreen">
+
+
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/displaytitle"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:drawableLeft="@drawable/ic_baseline_arrow_back_24"
+        android:drawablePadding="10sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10sp"
+        android:text="Title"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/displayimage"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/displayprice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingLeft="10sp"
+        android:text="content"
+        android:textSize="15sp" />
+
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/displaycontent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingLeft="10sp"
+        android:text="content"
+        android:textSize="15sp" />
+
+
+    <Button
+        android:id="@+id/addToCart"
+        android:background="@color/black"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="end"
+        android:text="Add To CART"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"/>
+
+
+</LinearLayout>

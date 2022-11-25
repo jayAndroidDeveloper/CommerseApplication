@@ -1,0 +1,52 @@
+{
+  "stores": [
+    {
+      "name": "Parag Electronics",
+      "address": "Jawahar chok , Ahmedabad",
+      "phone": "+916523545125",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/i4/079pxx79.xx79.191005143647.c6i4/catalogue/parag-electronics-ahmedabad-0l5u3xvutd.jpg?clr=521414"
+    },
+    {
+      "name": "Sun Electric",
+      "address": "Thakkarbapanagar, Ahmedabad",
+      "phone": "+918541253369",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/94/079pf001194/catalogue/sun-electric-maninagar-ahmedabad-geyser-dealers-6m9o4e51lh.jpg?clr=4f2517"
+    },
+    {
+      "name": "Samsung smart cafe",
+      "address": "Bopal, Ahmedabad",
+      "phone": "+918745123658",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/z3/079pxx79.xx79.130703144302.t6z3/catalogue/samsung-smart-plaza-bopal-ahmedabad-mobile-phone-dealers-2ttwohn.jpg"
+    },
+    {
+      "name": "Mahadev Mobile & Electric",
+      "address": "Isnpur, Ahmedabad",
+      "phone": "+919856451245",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/i2/079pxx79.xx79.140902170247.w2i2/catalogue/mahadev-mobile-isanpur-ahmedabad-mobile-phone-dealers-2dhj6.jpg"
+    },
+    {
+      "name": "Umiya Electronics",
+      "address": "Motera, Ahmedabad",
+      "phone": "+918745123658",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/k9/079pxx79.xx79.100628231033.q6k9/catalogue/umiya-electronics-ahmedabad-awlbztpikm.jpg?clr=525214"
+    },
+    {
+      "name": "Astha Electronics",
+      "address": "Nava Naroda, Ahmedabad",
+      "phone": "+918956231452",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/b5/079pxx79.xx79.210916211409.v3b5/catalogue/aastha-electronics-ahmedabad-electronic-goods-showrooms-r1n0qu5uhn.jpg?clr=264033"
+    },
+    {
+      "name": "Cfl Electronics",
+      "address": "Nava Naroda , Ahmedabad",
+      "phone": "+918745698231",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/w8/079pxx79.xx79.180510182006.c9w8/catalogue/cfl-electronics-ahmedabad-jzdeunwzf8.jpg"
+    },
+    {
+      "name": "Vijay sales",
+      "address": "Chandkheda , Ahmedabad",
+      "phone": "+918541236598",
+      "imageUrl" : "https://content3.jdmagicbox.com/comp/ahmedabad/j5/079pxx79.xx79.150427113055.g3j5/catalogue/vijay-sales-chandkheda-ahmedabad-electronic-goods-showrooms-26jnpy1.png"
+    }
+  ]
+}
